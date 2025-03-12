@@ -1,0 +1,141 @@
+html, body {
+  width: 210mm;
+  height: 297mm;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  font-size:16px;
+ }
+
+b {
+  font-size:22px;
+}
+
+ .identity {
+   background-color: #333333;
+   position: absolute;
+   top: 0;
+   left: 0;
+   color: white;
+   border-right: 1px solid white;
+   width: 40%;
+   height: 15%;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   box-sizing: border-box;
+   }
+
+.identity b {
+    display: block;
+    font-size: 40px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    }
+
+#last_name{padding-top:10px}
+#first_name{padding-bottom:10px}
+
+.job {
+   background-color: #333333;
+   position: absolute;
+   top: 0;
+   right: 0;
+   width: 60%;
+   height: 15%;
+   color: white;
+   border-left: 1px solid white;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   }
+
+.job b{
+     display: block;
+     font-size: 40px;
+     text-align: center;
+   }
+
+#company{padding-top:10px}
+#position{padding-bottom:10px}
+
+ .about-me {
+  background-color: lightgrey;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 40%;
+  height: 85%;
+ }
+
+.xp {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 60%;
+  height: 85%;
+  }
+
+
+.left_li{
+  padding: 5px;
+}
+
+a {
+  color: black;
+}
+
+p {
+  margin: 0px;
+  padding-bottom: 5px;
+  display: flex;
+}
+
+.position{
+  display: flex;
+  padding-left :25px;
+  font-size: 18px;
+}
+
+.company{
+  padding-left:25px;
+  }
+
+.title{
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+  font-size: 25px;
+}
+
+#title1{
+    padding-top: 10px;
+}
+
+.missions {
+    margin: 0 10px 0 10px;
+    padding: 0 auto;
+    list-style-type: circle
+}
+
+.title_right {
+   font-size: 25px;
+}
+
+#title6 {
+display: inline-block;
+padding-bottom: 10px;
+}
+
+img {
+  height: 30px;
+  width: auto;
+  padding: 0 5px 0 10px ;
+  }
+
+#first_image {
+  padding-top: 5px;
+}
