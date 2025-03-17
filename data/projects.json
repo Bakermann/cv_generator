@@ -1,0 +1,28 @@
+{
+  "fr": {
+    "Moteur de recherche": "Réalisation d’un moteur de recherche sur les pages Wikipédia françaises en utilisant l’algorithme du PageRank de google. Création d’une interface de recherche avec flask.",
+    "Analyse de sentiments": "Web scrapping, analyse de texte (nlp) et des émotions des tweets français durant les grèves RATP de 2023",
+    "Appli mobile": "Réalisation d’une application mobile de proposition de recette culinaire en fonction des ingrédients disponibles.",
+    "Questionnaire": "Réalisation d’un interface de questionnaire en ligne (big 5).",
+    "Gestion de portefeuille ": "Construction d’un indicateur boursier permettant de définir une stratégie de portefeuille pour 3 indices US",
+    "Scoring": "Construction d'un score d’octroi de crédit pour les clients de Renault (nettoyage des données, comparaison de modèles, optimisation du modèle choisi)",
+    "Table de mortalités": "Visualisation, analyse par composantes principales, modèle LEE carter et régression linéaire",
+    "Bilan financier": " Conception d'un dashboard de gestion financière permettant de suivre les revenus, les dépenses, et les flux de trésorerie en temps réel. ",
+    "Retranscription": " Combinaison d’un modèle de diarisation et speech2text pour transcription automatique + analyse linguistique dans le cadre d’entretiens.",
+    "Assistant virtuel": "Réalisation d'un assistant textuel/vocal automatisant certaines tâches. NLP, speech recognition",
+    "DPE": " Visualisation du diagnostic de performance énergétique des logements en France."
+  },
+  "en": {
+    "Search Engine": "Development of a search engine for French Wikipedia pages using Google's PageRank algorithm. Creation of a search interface with Flask.",
+    "Sentiment Analysis": "Web scraping, text analysis (NLP), and sentiment analysis of French tweets during the 2023 RATP strikes.",
+    "Mobile App": "Development of a mobile application suggesting recipes based on available ingredients.",
+    "Questionnaire": "Creation of an online questionnaire interface (Big Five).",
+    "Portfolio Management": "Construction of a stock market indicator to define a portfolio strategy for 3 US indices.",
+    "Scoring": "Development of a credit granting score for Renault customers (data cleaning, model comparison, optimization of the chosen model).",
+    "Mortality Tables": "Visualization, principal component analysis, Lee-Carter model, and linear regression.",
+    "Financial Report": "Design of a financial management dashboard for real-time monitoring of revenues, expenses, and cash flows.",
+    "Transcription": "Combination of a diarization model and speech-to-text for automatic transcription + linguistic analysis in the context of interviews.",
+    "Virtual Assistant": "Development of an automated textual/voice assistant for certain tasks. NLP, speech recognition.",
+    "EPC": "Visualization of the energy performance diagnostics of housing in France."
+  }
+}

@@ -1,0 +1,127 @@
+html {
+  background-color: white;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.line {
+   width: 100%;
+   text-align: center;
+   border-bottom: 2px solid lightblue;
+   line-height: 0.1em;
+   margin: 10px 0 10px 0;
+}
+.line b {
+    background:white;
+    padding:0 10px;
+}
+
+.name, .about-job {
+  text-align: center;
+  font-size: 27px;
+}
+
+.name
+
+.contact {
+padding-top: 10px;
+margin-left: 100px;
+}
+
+.contact label{
+width: 33%;
+}
+
+.contact label{
+  padding: 0 20px 0 50px;
+}
+
+.find-me {
+padding-top: 10px;
+}
+
+.find-me label{
+  padding: 0 20px 0 100px;
+  width: 50px;
+}
+
+.languages {
+display: flex;
+width: 100%;
+
+}
+
+.languages label{
+  padding: 0 20px 10px 50px;
+  width: 33%;
+
+}
+
+.skills {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.skills-child {
+  overflow-wrap: break-word;
+  width: 50%;
+}
+
+.position, .company {
+    display: block;
+}
+
+.projets {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.projets-child {
+  overflow-wrap: break-word;
+  width: 50%;
+}
+.projets-child strong {
+    margin-bottom: 0;
+}
+
+.projets-child p {
+    margin-top: 0;
+}
+
+.certifications {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.certifications-child {
+  overflow-wrap: break-word;
+  width: 50%;
+}
+
+.education ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.education li {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.education span {
+    display: inline;
+}
+
+.diploma_location {
+    margin-left: auto;
+    font-style: italic;
+}
+
+.hobbies label {
+    margin-right: 50px;
+}
+
+a {
+    color:black;
+}

@@ -1,0 +1,22 @@
+{
+    "fr": {
+        "title1": "CONTACT",
+        "title2": "COMPÉTENCES",
+        "title3": "LANGUES",
+        "title4": "CERTIFICATIONS",
+        "title5": "HOBBIES",
+        "title6": "EXPERIENCES",
+        "title7": "PROJETS",
+        "title8": "FORMATION"
+    },
+    "en": {
+        "title1": "CONTACT",
+        "title2": "SKILLS",
+        "title3": "LANGUAGES",
+        "title4": "CERTIFICATIONS",
+        "title5": "HOBBIES",
+        "title6": "WORKING EXPERIENCE",
+        "title7": "PROJECTS",
+        "title8": "EDUCATION"
+    }
+}
